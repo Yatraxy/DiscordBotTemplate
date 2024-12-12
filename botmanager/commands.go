@@ -24,7 +24,6 @@ var (
 )
 
 func init() {
-
 	SlashCommands = []SlashCommand{
 		{
 			Command: slashapi.SlashCommandJson{
